@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="DesignSurface">
+    <option name="filePathToZoomLevelMap">
+      <map>
+        <entry key="..\:/Mobile/Nativo/Android/Android Studio/Kotlin/Categorias/TestesTecnicos/NTConsult/Sicredi/Sicredi/develop/feature/api/app/src/main/res/layout/activity_detalhe_feira.xml" value="0.22" />
+        <entry key="..\:/Mobile/Nativo/Android/Android Studio/Kotlin/Categorias/TestesTecnicos/NTConsult/Sicredi/Sicredi/develop/feature/api/app/src/main/res/layout/activity_main.xml" value="0.22" />
+        <entry key="..\:/Mobile/Nativo/Android/Android Studio/Kotlin/Categorias/TestesTecnicos/NTConsult/Sicredi/Sicredi/develop/feature/api/app/src/main/res/layout/feira_detalhe_item.xml" value="0.25" />
+        <entry key="..\:/Mobile/Nativo/Android/Android Studio/Kotlin/Categorias/TestesTecnicos/NTConsult/Sicredi/Sicredi/develop/feature/api/app/src/main/res/layout/feira_item.xml" value="0.22" />
+        <entry key="..\:/Mobile/Nativo/Android/Android Studio/Kotlin/Categorias/TestesTecnicos/NTConsult/Sicredi/Sicredi/develop/feature/checkin/app/src/main/res/drawable/dialog_custom.xml" value="0.3675" />
+        <entry key="..\:/Mobile/Nativo/Android/Android Studio/Kotlin/Categorias/TestesTecnicos/NTConsult/Sicredi/Sicredi/develop/feature/checkin/app/src/main/res/layout/activity_detalhe_feira.xml" value="0.36666666666666664" />
+        <entry key="..\:/Mobile/Nativo/Android/Android Studio/Kotlin/Categorias/TestesTecnicos/NTConsult/Sicredi/Sicredi/develop/feature/checkin/app/src/main/res/layout/activity_feira_check_in.xml" value="0.25" />
+        <entry key="..\:/Mobile/Nativo/Android/Android Studio/Kotlin/Categorias/TestesTecnicos/NTConsult/Sicredi/Sicredi/develop/feature/checkin/app/src/main/res/layout/activity_main.xml" value="0.36666666666666664" />
+        <entry key="..\:/Mobile/Nativo/Android/Android Studio/Kotlin/Categorias/TestesTecnicos/NTConsult/Sicredi/Sicredi/develop/feature/checkin/app/src/main/res/layout/dialog_custom.xml" value="0.22" />
+        <entry key="..\:/Mobile/Nativo/Android/Android Studio/Kotlin/Categorias/TestesTecnicos/NTConsult/Sicredi/Sicredi/develop/feature/checkin/app/src/main/res/layout/dialog_sucesso_checkin.xml" value="0.25" />
+        <entry key="..\:/Mobile/Nativo/Android/Android Studio/Kotlin/Categorias/TestesTecnicos/NTConsult/Sicredi/Sicredi/develop/feature/checkin/app/src/main/res/layout/feira_item.xml" value="0.36666666666666664" />
+        <entry key="..\:/Mobile/Nativo/Android/Android Studio/Kotlin/Git/Repositorio/TestesTecnicos/NTConsult/Sicredi/Sicredi/develop/feature/final/app/src/main/res/layout/activity_apresentacao.xml" value="0.22" />
+        <entry key="..\:/Mobile/Nativo/Android/Android Studio/Kotlin/Git/Repositorio/TestesTecnicos/NTConsult/Sicredi/Sicredi/develop/feature/final/app/src/main/res/layout/activity_detalhe_feira.xml" value="0.25" />
+        <entry key="..\:/Mobile/Nativo/Android/Android Studio/Kotlin/Git/Repositorio/TestesTecnicos/NTConsult/Sicredi/Sicredi/develop/feature/final/app/src/main/res/layout/activity_feira_check_in.xml" value="0.22" />
+        <entry key="..\:/Mobile/Nativo/Android/Android Studio/Kotlin/Git/Repositorio/TestesTecnicos/NTConsult/Sicredi/Sicredi/develop/feature/final/app/src/main/res/layout/activity_main.xml" value="0.22" />
+        <entry key="..\:/Mobile/Nativo/Android/Android Studio/Kotlin/Git/Repositorio/TestesTecnicos/NTConsult/Sicredi/Sicredi/develop/feature/final/app/src/main/res/layout/include_checkin_formulario.xml" value="0.36666666666666664" />
+        <entry key="..\:/Mobile/Nativo/Android/Android Studio/Kotlin/Git/Repositorio/TestesTecnicos/NTConsult/Sicredi/Sicredi/develop/feature/progressbar/app/src/main/res/layout/activity_detalhe_feira.xml" value="0.33" />
+        <entry key="..\:/Mobile/Nativo/Android/Android Studio/Kotlin/Git/Repositorio/TestesTecnicos/NTConsult/Sicredi/Sicredi/develop/feature/progressbar/app/src/main/res/layout/activity_feira_check_in.xml" value="0.25" />
+        <entry key="..\:/Mobile/Nativo/Android/Android Studio/Kotlin/Git/Repositorio/TestesTecnicos/NTConsult/Sicredi/Sicredi/develop/feature/progressbar/app/src/main/res/layout/activity_main.xml" value="0.36666666666666664" />
+        <entry key="..\:/Mobile/Nativo/Android/Android Studio/Kotlin/Git/Repositorio/TestesTecnicos/NTConsult/Sicredi/Sicredi/develop/feature/progressbar/app/src/main/res/layout/feira_item.xml" value="0.25" />
+      </map>
+    </option>
+  </component>
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_11" default="true" project-jdk-name="Android Studio default JDK" project-jdk-type="JavaSDK">
+    <output url="file://$PROJECT_DIR$/build/classes" />
+  </component>
+  <component name="ProjectType">
+    <option name="id" value="Android" />
+  </component>
+</project>

@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">Sicredi</string>
+
+    <string name="text_eventos_feira">Veja os eventos da nossa feira</string>
+
+    <string name="text_nome_feira">Feira Teste</string>
+    <string name="text_preco_feira_item">R$ 10,00</string>
+    <string name="text_descricao_feira">Descrição feira teste</string>
+    <string name="text_feira_local">Local da feira teste</string>
+
+    <string name="text_desenvolvido">Desenvolvido pela Sicredi</string>
+
+</resources>
