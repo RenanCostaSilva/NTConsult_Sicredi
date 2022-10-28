@@ -6,7 +6,13 @@
 Este aplicativo , é apenas para o teste têcnico para vaga de desenvolvedor mobile para a NTConsult 
 
 ## Imagens da Aplicação
-![mobile 1](https://github.com/RenanCostaSilva/Camera2/blob/main/wall.png)
+![mobile 1](https://github.com/RenanCostaSilva/NTConsult_Sicredi/blob/main/1.png)
+![mobile 2](https://github.com/RenanCostaSilva/NTConsult_Sicredi/blob/main/2.png)
+![mobile 3](https://github.com/RenanCostaSilva/NTConsult_Sicredi/blob/main/3.png)
+![mobile 4](https://github.com/RenanCostaSilva/NTConsult_Sicredi/blob/main/4.png)
+![mobile 5](https://github.com/RenanCostaSilva/NTConsult_Sicredi/blob/main/5.png)
+![mobile 6](https://github.com/RenanCostaSilva/NTConsult_Sicredi/blob/main/6.png)
+
 
 ## SDK
 minSdk: 19 / alvo: 32
